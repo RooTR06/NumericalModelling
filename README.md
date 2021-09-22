@@ -7,4 +7,4 @@ This is an amazing repo if you want to reduce the needed computantional power an
 
 ## !Caution!
 
-There appears to be bug at HW1 and HW2. Since I just found my source code and it has been quite some time I'm not sure if this was a finalized version or the one with some bugs. But I remember that the bug was very easy to fix, if there are any. 
+There appears to be bug at HW1 and HW4. Since I just found my source code and it has been quite some time I'm not sure if this was a finalized version or the one with some bugs. But I remember that the bug was very easy to fix, if there are any. 
